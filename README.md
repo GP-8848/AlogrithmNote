@@ -1,1 +1,1 @@
-# AlogrithmNote
+# AlgorithmNote
